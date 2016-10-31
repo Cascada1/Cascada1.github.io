@@ -30,7 +30,8 @@ function randomQuote() {
    
     pp++;
    
-    if(pp>18){pp=0;document.getElementById("a1").style.backgroundColor=""; document.getElementById("0").style.color="black";document.getElementById("1").style.color="black";}
+    if(pp>18){pp=0;document.getElementById("a1").style.backgroundColor=""; document.getElementById("0").style.color="black";
+              document.getElementById("1").style.color="black";}
   back[2]="url('http://www.muzirisheritage.org/images/Kottakkavu-church-L.jpg')"
   back[9]="url('http://www.oneoceanexpeditions.com/assets/home/gallery/oo-antarctica-01.jpg')"
   back[1]="url('https://s-media-cache-ak0.pinimg.com/736x/4f/ce/da/4fceda14ca9e010733e927492a929af9.jpg')" 
